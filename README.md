@@ -1,2 +1,2 @@
 # Flask-Projects
-This Folder contains all the Flask related projects developed in Python.
+This Folder contains the First Flask related project developed in Python.
